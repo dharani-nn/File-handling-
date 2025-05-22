@@ -1,0 +1,9 @@
+PS C:\Users\kjkri\OneDrive\Desktop\task1> javac FileHandlingUtility.java
+PS C:\Users\kjkri\OneDrive\Desktop\task1> java FileHandlingUtility
+Reading file contents:
+This is the first line.
+This is the second line.
+
+After modification:
+This is the first line.
+This is the modified line.
